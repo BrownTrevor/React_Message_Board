@@ -1,0 +1,38 @@
+.move-right {
+   position: absolute !important;
+   top: 6px;
+   right: 6px;
+}
+
+.label-width {
+   width: 50%;
+}
+
+.list-item {
+   padding: 3em;
+}
+
+.cnvs-heading {
+   font-size: 2em;
+
+}
+
+.empty-space {
+   height: 1.5em;
+}
+
+.text-color {
+   color: grey;
+}
+
+.hidden {
+   display: none !important;
+   visibility: hidden !important;
+}
+
+.show {
+   display: block !important;
+}
+
+
+

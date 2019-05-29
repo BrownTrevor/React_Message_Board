@@ -1,0 +1,12 @@
+{
+   "sublimeTextKeymap.promptV3Features": true,
+   "editor.multiCursorModifier": "ctrlCmd",
+   "editor.snippetSuggestions": "top",
+   "editor.formatOnPaste": true,
+   "workbench.colorTheme": "Monokai",
+   "editor.tabSize": 3,
+   "editor.insertSpaces": true,
+   "editor.autoClosingBrackets": true,
+   "editor.autoIndent": true,
+   "editor.codeLens": true
+}
